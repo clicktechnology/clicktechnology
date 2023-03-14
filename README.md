@@ -1,4 +1,6 @@
+```
 - 👋 Hi, I’m @clicktechnology
+
 - 👀 I’m interested in ...
 
   Svelte, Supabase
@@ -9,12 +11,14 @@
   AWS Architecht Associate          [X]
   Terraform Associate               [~]
   AWS Architecht Professional       [~]
-  ~ In progress
+  
+  [X] Complete  [~] In progress
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
   Mail me at morgan.conlon[at]click-technology.com
+```
 
 <!---
 clicktechnology/clicktechnology is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
