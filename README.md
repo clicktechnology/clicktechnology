@@ -1,11 +1,15 @@
 - 👋 Hi, I’m @clicktechnology
 - 👀 I’m interested in ...
 
-  NodeJS, CSS, Vue3
+  Svelte, Supabase
 
 - 🌱 I’m currently learning ...
 
-  Vue3 withg Nuxt, and the Composition API (which is really good!)
+  AWS Architecht Cloud Practitioner [X]
+  AWS Architecht Associate          [X]
+  Terraform Associate               [~]
+  AWS Architecht Professional       [~]
+  ~ In progress
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
