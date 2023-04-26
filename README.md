@@ -9,7 +9,7 @@
 
   AWS Architecht Cloud Practitioner [X]
   AWS Architecht Associate          [X]
-  Terraform Associate               [~]
+  Terraform Associate               [X]
   AWS Architecht Professional       [~]
   
   [X] Complete  [~] In progress
