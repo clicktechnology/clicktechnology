@@ -7,10 +7,11 @@
 
 - 🌱 I’m currently learning ...
 
-  AWS Architecht Cloud Practitioner [X]
-  AWS Architecht Associate          [X]
-  Terraform Associate               [X]
-  AWS Architecht Professional       [~]
+  AWS Architecht Cloud Practitioner      [X]
+  AWS Architecht Associate               [X]
+  Terraform Associate                    [X]
+  AWS Architecht Professional            [X]
+  AWS Devops Engineer Professional       [~]
   
   [X] Complete  [~] In progress
 
