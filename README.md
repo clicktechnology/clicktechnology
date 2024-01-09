@@ -11,9 +11,10 @@
   AWS Architecht Associate           [X]
   Terraform Associate                [X]
   AWS Architecht Professional        [X]
-  AWS Devops Engineer Professional   [~]
+  AWS Devops Engineer Professional   [X]
+  Certified Kubernetes Administrator [~]
   
-  [X] Complete  [~] In progress
+  [X] Complete  [~] Loading, please wait..
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
