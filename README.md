@@ -12,6 +12,8 @@
   Terraform Associate                [X]
   AWS Architecht Professional        [X]
   AWS Devops Engineer Professional   [X]
+  Fireship Sveltekit Course          [X]
+  slayingthedragon.io CSS Course     [X]
   Certified Kubernetes Administrator [~]
   
   [X] Complete  [~] Loading, please wait..
