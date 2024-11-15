@@ -21,7 +21,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-  Mail me at morgan.conlon[at]click-technology.com or hello[at]cloudguyinbroadstone.com
+  Mail me at hello[at]cloudguyinbroadstone.com
+  X : [cloudguyinbroadstone](https://x.com/cloudguybh18)
 ```
 
 <!---
