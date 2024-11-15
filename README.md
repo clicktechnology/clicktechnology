@@ -15,6 +15,7 @@
   Fireship Sveltekit Course          [X]
   slayingthedragon.io CSS Course     [X]
   Certified Kubernetes Administrator [~]
+  AWS Certified Security - Specialty [~]
   
   [X] Complete  [~] Loading, please wait..
 
